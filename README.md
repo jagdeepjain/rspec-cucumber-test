@@ -1,4 +1,4 @@
-rspec-test
+rspec-cucumber-test
 ===================
 
 Sample code for BDD based on Rspec and cucumber
